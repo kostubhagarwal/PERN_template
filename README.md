@@ -7,7 +7,7 @@ My starting point for an webapp using the PERN stack.
 1. create db in psql (via db.sql)
 2. connect to db (configure db.js)
 3. configure routes (index.js)
-4. set cd as server, then run [nodemon](https://www.npmjs.com/package/nodemon)
+4. set cd as ./server, then run [nodemon](https://www.npmjs.com/package/nodemon)
 
 # Getting Started with Create React App
 
